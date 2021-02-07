@@ -9,7 +9,7 @@ from natsort import natsorted
 
 client = commands.Bot(command_prefix="#")
 
-TOKEN = "ODA2NjMwODQ5MDA0NTY4NTk3.YBsPhA.CSqCy3d9pWKPOpFq6f2dqWP7a5M"
+TOKEN = "This is a secret"
 
 @client.event
 async def onready():
